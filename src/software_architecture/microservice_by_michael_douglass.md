@@ -56,12 +56,12 @@ In the Real Life Example section of my article, Complexity in Software Architect
 
 The five listed systems (services) were completely decoupled from one another by what we called the Event Bus. This bus utilized ZeroMQ as the underlying communication system, and I spent a good amount of time writing a Python object layer to provide many of the things you need for a good Microservices layer:
 
-* Service Registration/Service Location — Built in to the event bus layer was an internal service used to both register yourself as a named service and locate other named services.
-* Request/Response and Publish/Subscribe — Both of the common mechanisms available in a Microservices architecture were available and fully utilized by all services.
-* Multiprocess — While the software itself was written to run on a single machine, we still used ZeroMQ’s ability to communicate over network sockets so that we could expand our application across multiple processes.
-* Transport Independence — At any time the use of ZeroMQ could have been replaced with any mechanism we desired. The abstraction through the Event Bus system made this highly possible.
-* Independent Development — While everything was still kept in a single repository, and we were a single team of three people, we were still able to develop on separate parts of the system with great amounts of autonomy. One developer worked a long time on the upload/download logic of the Sync Engine itself while the rest of us developed the other services.
-* Pure Service Testing — Each service was tested entirely on its own. There was never a need to spin up an instance of another service to test the proper functionality of any single one.
+* **Service Registration/Service Location**: Built in to the event bus layer was an internal service used to both register yourself as a named service and locate other named services.
+* **Request/Response and Publish/Subscribe**: Both of the common mechanisms available in a Microservices architecture were available and fully utilized by all services.
+* **Multiprocess**: While the software itself was written to run on a single machine, we still used ZeroMQ’s ability to communicate over network sockets so that we could expand our application across multiple processes.
+* **Transport Independence**: At any time the use of ZeroMQ could have been replaced with any mechanism we desired. The abstraction through the Event Bus system made this highly possible.
+* **Independent Development**: While everything was still kept in a single repository, and we were a single team of three people, we were still able to develop on separate parts of the system with great amounts of autonomy. One developer worked a long time on the upload/download logic of the Sync Engine itself while the rest of us developed the other services.
+* **Pure Service Testing**: Each service was tested entirely on its own. There was never a need to spin up an instance of another service to test the proper functionality of any single one.
 
 The beauty of the Event Bus system I built was that, to the Python developer on the team, most of the details were hidden by the library. For each event or publish type you wished to send and/or receive, there was a simple definition file in the form of a class which encoded internally the named service responsible and all encoding/decoding needs.
 

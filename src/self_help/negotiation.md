@@ -1,5 +1,5 @@
 **Disclaimer**:   
-This articile was posted on [Meduim](https://medium.freecodecamp.org/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6) by Mr Haseeb Qureshi.
+This articile was posted on [Medium](https://medium.freecodecamp.org/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6) by Mr Haseeb Qureshi.
 
 ---
 
