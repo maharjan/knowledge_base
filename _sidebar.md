@@ -3,6 +3,8 @@
     - [How to negotiate an offer](self_help/negotiate_offer)
     - [Career break Or Sabbatical](self_help/career_break_or_sabbatical)
     - [Time for career change](self_help/time_for_career_change)
+- [Business](business/sunk_cost_bias)
+    - [Sunk Cost Bias](business/sunk_cost_bias)
 - [Cache](src/cache/redis_setup.md)
     - [Redis Setup](src/cache/redis_setup.md)
     - [Redis Monitoring](src/cache/redis_info.md)
