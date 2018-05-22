@@ -5,6 +5,8 @@
     - [Time for career change](self_help/time_for_career_change)
 - [Business](business/sunk_cost_bias)
     - [Sunk Cost Bias](business/sunk_cost_bias)
+- [Project Management](project_mgmt/devops)
+    - [Devops](project_mgmt/devops)
 - [Cache](src/cache/redis_setup.md)
     - [Redis Setup](src/cache/redis_setup.md)
     - [Redis Monitoring](src/cache/redis_info.md)
