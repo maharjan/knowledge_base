@@ -1,8 +1,8 @@
-[This article originally appreared on Grahamela](http://www.grahamlea.com/2013/02/what-is-devops-bullet-points-quotes-tweets)
-##### Added on 22-05-2018
----
-
 ## What is DevOps?
+---
+[This article originally appreared on Grahamela](http://www.grahamlea.com/2013/02/what-is-devops-bullet-points-quotes-tweets)
+###### Added on 22-05-2018
+---
 
 Interest in DevOps is booming. I feel like I heard it mentioned as the motivation for some decision at least once a week last year, and it climbed its way into the headlines of most of the newsletters I receive from LinkedIn, Twitter, InfoQ, etc.
 
