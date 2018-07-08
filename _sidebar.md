@@ -6,6 +6,7 @@
     - [Good Relationship for Happiness](self_help/good_relationship_for_happiness)
     - [How capable are you](self_help/how_truly_capable_are_you)
     - [How to ensure your future is bigger than your past](self_help/ensure_future_is_greater_than_past)
+    - [Why asking whats my duty is more important](self_help/whats_my_duty)
 - [Business](business/sunk_cost_bias)
     - [Sunk Cost Bias](business/sunk_cost_bias)
 - [Project Management](project_management/devops)
