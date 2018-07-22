@@ -867,8 +867,9 @@ body {
 }
 
 .markdown-section em {
-  color: #54626d;
-  background-color: rgba(66, 185, 131, 0.1);
+  color: #424242;
+  background-color: rgba(100, 185, 131, 0.3);
+  padding: 5px 5px;
 }
 
 .markdown-section code {
