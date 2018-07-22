@@ -82,6 +82,7 @@ But I didn’t force or demand myself to want it.
 What happened was I wanted to fix the “what I want” problem. I wanted to be able to answer it, and I wanted to know why I “couldn’t.”
 
 I asked myself “what makes you happy,” and when I had no confident answer(instead distracting myself with side questions like, “what is happiness, even?”), I then asked “how do you feel?” My only answer, always, was “fine.”So then I thought, “just for fun, pick the closest feeling — or one you sometimes feel! You can’t always be fine!” Still unsure, on a whim I Googled “feelings chart” — and not only do they exist, but they totally blew my mind.
+![Feeling chart](/images/Feelings-Wheel-Color.jpg)
 
 Looking at them, I thought “these are feelings?!” I didn’t realize half these even existed, and didn’t realize things I was feeling were the feelings they said on this chart (like I was surprised at how little “fear” I felt, that what registered as “happiness” for me was actually “peace” or “power,” that most everything under “happy” I only experienced in fleeting blips, and that sarcasm and distance are “anger.”) That’s how out of tune I was.
 
