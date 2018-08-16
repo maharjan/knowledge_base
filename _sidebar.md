@@ -16,6 +16,7 @@
     - [Devops](project_management/devops)
     - [Agile Manifesto](project_management/agile_manifesto)
     - [What is Agile](project_management/agile)
+    - [Deployment Smells](project_management/deployment_smell)
 - [Software Architecture](architecture/microservice)
     - [Microservice Architecture](architecture/microservice)
     - [Load balancer & Proxying](architecture/load_balancer)
