@@ -11,6 +11,8 @@
     - [How to know what you want](self_help/how_to_know_what_you_want)
     - [What To Do When You Don’t Care](self_help/what_to_do_when_you_dont_care)
     - [Responsibility: Not Apologizing When You Succeed Or Complaining When You Fail](self_help/not_apologizing_when_you_succeed_or_complaining_when_you_fail)
+- [Story](story/nothing_turns_out_how_you_think_it_will)
+    - [Nothing turns out how you think it will](story/nothing_turns_out_how_you_think_it_will)
 - [Business](business/sunk_cost_bias)
     - [Sunk Cost Bias](business/sunk_cost_bias)
 - [Project Management](project_management/devops)
