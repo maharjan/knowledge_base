@@ -1,0 +1,30 @@
+## What Are You Not Willing to Give Up?
+##### If you don’t define it, you’ll never get it.
+---
+
+[Excerpt Original Source](https://www.thriveglobal.com/stories/41336-if-you-don-t-define-it-you-ll-never-get-it)
+
+**Without knowing the balance you want, you can’t get the balance you want.**
+
+My day-in-the-life had shown me a lot of things. One of the most important was that I had no plan for my work-life balance. In fact, most people I’ve talked to haven’t really thought about a formal work-life balance plan or strategy. Some of us have bucket lists. We have long lists of things to get done every day. But neither of those represent a plan or a strategy for work-life balance. So how do you come up with one?
+
+To solve this, I went back to the work I do with some of my clients. Sometimes companies hire me to help with business transformation. A lot changes in the business world, and these days it seems to change faster than ever. Because of that, many companies are trying to figure out how they need to change to stay competitive, or even just survive. That often means determining their vision, or defining their North Star, so that they can steer the business towards it as they transform. Without a clearly defined vision, it would be like they were trying to guide a ship in the middle of the ocean with no navigation. I spend a lot of time with clients defining that business vision with as much clarity as we can.
+
+Our searches for work-life balance shouldn’t be any different. I knew that I wanted to be successful in my business and be an active part of my family—the usual line that a lot of us probably use. However, if I went one level beneath that line, it didn’t really mean anything. It was a sound bite so generic that everything or nothing could fit into it. A sound bite wouldn’t help me figure out what really mattered to me, and if you are using the same party line, it might not help you. Maybe more importantly, it couldn’t explain what a balanced day should look like. And the day level is where work-life balance happens for most of us—or doesn’t happen. It is in the minutes and hours of every day that stress builds from trying to do this specific thing or that explicit activity. Generic sound bites don’t help you reconcile any of that. The bottom line is that if you talk only in general terms, you really can’t put specific strategies in place to help you achieve whatever it is that you want.
+
+**Assessing what is important to you at this point in time—and making trade-offs.**
+
+To find your North Star, you need to get into detail about what exactly work-life balance looks like for you and what specific trade-offs you need to make to get there. My personalized work-life balance vision needed something more explicit than: “I want to run a successful business and be an active part of the family.” As I thought about that next level of detail, I realized that I had no idea what to say beyond that generic statement. As much as I had made every effort to attain balance for the last decade of parenthood, I never knew what I really wanted at any point in those ten years. I had been shooting in the dark. No wonder my search for the holy grail of work-life balance had felt more like a series of comical calamities more worthy of a Monty Python movie than a meaningful search for real and attainable work-life happiness. I was letting it all happen to me based on a nice-sounding but in the end useless view of balance.
+
+How then do you get to something meaningful and useful? I started by doing something that comes quite naturally to me in situations like this. I overanalyzed it. From time to time, the world needs to be overanalyzed—or at least our lives need to be overanalyzed. I had clearly been underanalyzing mine for years, so why not swing the pendulum the other way. The result couldn’t be any worse than swirling around in my Vortex with eight chickens and a garage-eating rabbit for the rest of my life.
+
+After thinking hard while staring into space for a very long time and probably leaving a new permanent wrinkle on my forehead, I wrote down three questions that kept circling around in my head. These three questions became the basis for determining a work-life balance vision:
+
+1. **At this specific point in your life, are you someone who lives to work or works to live?** This is about forcing yourself to identify where your priorities stand. Given your life at the current moment, are you in the work camp or the life camp? Each represents priorities. Life clearly isn’t this black and white, but it is important to remove the convenient answer of “both” that many of us are inclined to use. For thinking purposes, it becomes important to force yourself to pick a side.
+
+2. **What are you not willing to give up on the work front?** This is about understanding what you perceive as nonnegotiable at work. You need to know what you aren’t willing to compromise at work in the name of things you want in your personal life, regardless of how you answered the first question.
+
+3. **What are you not willing to give up on the life front?** This is about doing the same thing as the second question but identifying the deal breakers in your personal life that you aren’t willing to give up in the name of things you want from work.
+
+
+There are no right or wrong answers to any of the three questions. As I was thinking about these questions for myself, I had an important realization. It would be very easy to answer these questions the way I thought I was supposed to answer them (you know, to be “socially acceptable”) instead of being really honest with myself. But by being brutally honest, as a starting point, your answers will more accurately inform where your heart and mind are, where your priorities need to be, and maybe most importantly what trade-offs you are willing to accept to achieve those work-life balance priorities. 
