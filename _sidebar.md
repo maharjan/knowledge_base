@@ -13,6 +13,7 @@
     - [Responsibility: Not Apologizing When You Succeed Or Complaining When You Fail](self_help/not_apologizing_when_you_succeed_or_complaining_when_you_fail)
     - [Worst career advice you can receive](self_help/worst_career_advice)
     - [If you don't define it you'll never get it](self_help/if_you_dont_define_it_you_will_never_get_it)
+    - [What to do when you're scared of making change](self_help/what_to_do_when_you_are_scared_of_making_change)
 - [Story](story/nothing_turns_out_how_you_think_it_will)
     - [Nothing turns out how you think it will](story/nothing_turns_out_how_you_think_it_will)
 - [Business](business/sunk_cost_bias)
