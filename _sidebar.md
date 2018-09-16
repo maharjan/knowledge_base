@@ -18,6 +18,7 @@
     - [Nothing turns out how you think it will](story/nothing_turns_out_how_you_think_it_will)
 - [Business](business/sunk_cost_bias)
     - [Sunk Cost Bias](business/sunk_cost_bias)
+    - [Simple Business Concept](business/simple_business_concept)
 - [Project Management](project_management/devops)
     - [Devops](project_management/devops)
     - [Agile Manifesto](project_management/agile_manifesto)
