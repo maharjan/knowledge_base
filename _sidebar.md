@@ -27,6 +27,7 @@
     - [Agile Manifesto](project_management/agile_manifesto)
     - [What is Agile](project_management/agile)
     - [Deployment Smells](project_management/deployment_smell)
+    - [What is task management](project_management/what_is_task_management)
     - [What are OKRs](project_management/what_are_okrs)
 - [Software Architecture](architecture/microservice)
     - [Microservice Architecture](architecture/microservice)
