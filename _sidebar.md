@@ -16,6 +16,8 @@
     - [What to do when you're scared of making change](self_help/what_to_do_when_you_are_scared_of_making_change)
     - [Things corporate world didn't teach](self_help/things_corporate_world_didnt_teach)
     - [Staying motivated is impossible](self_help/staying_motivated_is_impossible)
+- [Startup](startup/8-things-todo)
+    - [8 Things TODO in Startup](startup/8-things-todo-in-startup)
 - [Leadership](leadership/why_you_arent_growing_as_a_leader)
     - [Whay you aren't growing as a leader](leadership/why_you_arent_growing_as_a_leader)
     - [Sign that will identify terrible leadship mistake](leadership/terrible_leadership_mistake)
